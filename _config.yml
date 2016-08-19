@@ -1,4 +1,19 @@
+name: I G N O R
+favicon: null
+layout_spectrum: 0.5667226337827742
 typography_spectrum: 0.8900628692936152
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -10,28 +25,4 @@ color:
   lightness: 0.05459422618150711
   saturation: 0.34990962874144316
   rhythmicContrast: 0.6992550741415471
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.5667226337827742
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-author:
-  name: Gnör Gnörsson
-  url: gnor.co
-  email: i@gnor.co
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/519e10ed-4918-453a-a01e-d87eca1d8618.png
-name: 'I, G N Ö R'
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/850f8c52-30ad-4c09-b84b-8da81186ed04.png
-title: 'When I become the Internet, I am going to space.'
-description: Sideshoot of Gnör Gnörsson
 purpose: []
