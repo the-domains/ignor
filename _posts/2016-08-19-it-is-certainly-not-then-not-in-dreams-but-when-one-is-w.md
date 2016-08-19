@@ -1,4 +1,11 @@
 ---
+datePublished: '2016-08-19T13:16:29.091Z'
+sourcePath: _posts/2016-08-19-it-is-certainly-not-then-not-in-dreams-but-when-one-is-w.md
+author: []
+via: {}
+dateModified: '2016-08-19T13:16:28.524Z'
+title: ''
+publisher: {}
 description: >-
   It is certainly not then — not in dreams — but when one is wide awake, at
   moments of robust joy and achievement, on the highest terrace of
@@ -6,14 +13,7 @@ description: >-
   the mast, from the past and its castle-tower. And although nothing much can be
   seen through the mist, there is somehow the blissful feeling that one is
   looking in the right direction.
-dateModified: '2016-08-19T13:16:14.985Z'
-datePublished: '2016-08-19T13:16:21.091Z'
-title: ''
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-19-it-is-certainly-not-then-not-in-dreams-but-when-one-is-w.md
 inFeed: true
 hasPage: false
 inNav: false
