@@ -1,0 +1,29 @@
+typography_spectrum: 0.8900628692936152
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9453723612241447
+  lightness: 0.05459422618150711
+  saturation: 0.34990962874144316
+  rhythmicContrast: 0.6992550741415471
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5667226337827742
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: I G N O R
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Sideshoot of Gnör Gnörsson
+purpose: []
