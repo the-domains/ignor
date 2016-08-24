@@ -23,17 +23,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/gnor_gnorsson/'
 title: Gnör Gnörsson (@gnor_gnorsson) * Instagram photos and videos
-datePublished: '2016-08-24T13:35:40.586Z'
-dateModified: '2016-08-24T13:35:17.691Z'
+datePublished: '2016-08-24T14:51:31.588Z'
+dateModified: '2016-08-24T14:51:30.910Z'
 description: ''
 via: {}
-starred: false
 sourcePath: _posts/2016-08-24-gnor-gnorsson-gnor_gnorsson-instagram-photos-and-videos.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: gnor-gnorsson-gnor_gnorsson-instagram-photos-and-videos/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
