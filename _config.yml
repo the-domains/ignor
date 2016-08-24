@@ -25,11 +25,15 @@ author:
   email: i@gnor.co
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/519e10ed-4918-453a-a01e-d87eca1d8618.png
-name: 'I, G N Ö R'
+name: "I, \_G N Ö R"
 cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: '@gnor_gnorsson'
+    id: 66a6b0e2-47d0-4b12-9db7-1158d7786864
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/850f8c52-30ad-4c09-b84b-8da81186ed04.png
 title: 'When I become the Internet, I am going to space.'
